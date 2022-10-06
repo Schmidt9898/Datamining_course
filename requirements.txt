@@ -1,3 +1,4 @@
 pandas
 sweetviz
 matplotlib
+sklearn
